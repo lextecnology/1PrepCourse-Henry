@@ -1,2 +1,1 @@
-# 1PrepCourse-Henry
-Esta es una prueba del repositorio para el prepcourse henry modulo 2
+Esta es una prueva del modulo 2 de repocitorios de lex tecnology henry prepcourse 
